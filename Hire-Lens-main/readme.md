@@ -1,8 +1,10 @@
 # HireLens: AI-Powered Resume Analysis 📄🤖
 
-## Overview
+## OverviewOverview
 
-HireLens is an intelligent resume analysis tool that leverages AI to provide comprehensive insights for job seekers. The application helps candidates optimize their resumes by analyzing ATS compatibility, identifying missing keywords, and generating personality insights.
+HireLens is a smart resume evaluation platform powered by AI that helps job seekers enhance their profiles. It checks resumes for ATS (Applicant Tracking System) compatibility, highlights missing keywords, and even offers insights into candidate personality traits to improve hiring prospects.
+
+Built with Python and Streamlit, HireLens delivers a seamless, interactive web experience for users.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.20+-green)
@@ -26,7 +28,7 @@ HireLens is an intelligent resume analysis tool that leverages AI to provide com
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Shantnu-singh/Hire-Lens
+https://github.com/ishita250104/ATS_checker.git
 cd app
 ```
 
@@ -56,9 +58,11 @@ POPPER_DIRECTORY_PATH =/path/to/popper/Library/bin
 
 ### API Key Setup
 
-1. Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
-2. Create a new API key for Gemini
-3. Copy the API key to your `.env` file
+1. Go to Google AI Studio
+
+2. Generate a new API key for Gemini
+
+3. Add it to your .env file
 
 ## Running the Application
 
@@ -67,15 +71,16 @@ streamlit run app.py
 ```
 
 
-## Usage
+## How To Use
 
-1. Navigate to the web interface
-2. Paste the job description
-3. Upload your PDF resume
-4. Choose analysis type:
+1. Open the web interface
+2. Paste a job description
+3. Upload your resume (PDF format)
+4. Select analysis type:
    - ATS Score
-   - Candidate Profile
+   - Personality Profile
    - Missing Keywords
+   - 
 
 ## Contributing
 
