@@ -1,4 +1,4 @@
-# HireLens: AI-Powered Resume Analysis 📄🤖
+# HireLens: AI-Powered Resume Analysis 📄✨
 
 ## OverviewOverview
 
@@ -13,10 +13,10 @@ Built with Python and Streamlit, HireLens delivers a seamless, interactive web e
 ## Features
 
 - 🤖 ATS Score Analysis
-- 👤 Candidate Personality Insights
-- 🔑 Missing Keywords Detection
-- 📄 PDF Resume Support
-- 🌐 User-Friendly Web Interface
+- 🧠 Candidate Personality Insights
+- 📌 Missing Keywords Detection
+- 📑 PDF Resume Support
+- 💻 User-Friendly Web Interface
 
 ## Prerequisites
 
@@ -80,7 +80,7 @@ streamlit run app.py
    - ATS Score
    - Personality Profile
    - Missing Keywords
-   - 
+   
 
 ## Contributing
 
